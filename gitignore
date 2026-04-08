@@ -1,0 +1,32 @@
+# Audio data - do not commit large files
+data/raw/
+data/processed/
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Pickle / model files
+*.pkl
+*.pickle
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db

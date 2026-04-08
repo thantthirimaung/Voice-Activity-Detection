@@ -1,0 +1,23 @@
+# Core scientific computing
+numpy
+pandas
+
+# Audio processing
+librosa
+
+# Machine learning
+scikit-learn
+keras
+tensorflow
+
+# Visualization
+matplotlib
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
+
+# Utilities (used internally by librosa/keras)
+scipy
+soundfile
