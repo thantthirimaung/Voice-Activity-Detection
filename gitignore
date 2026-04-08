@@ -22,6 +22,7 @@ data/processed/
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyc
 .env
 *.egg-info/
 dist/
@@ -30,3 +31,5 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+speechprocess_tf/
